@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544293717 source:e:\github\c_rewrite\b2_x\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
