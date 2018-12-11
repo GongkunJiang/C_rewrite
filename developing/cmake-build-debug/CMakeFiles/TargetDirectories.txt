@@ -1,0 +1,3 @@
+E:/Github/C_rewrite/developing/cmake-build-debug/CMakeFiles/developing.dir
+E:/Github/C_rewrite/developing/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Github/C_rewrite/developing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
